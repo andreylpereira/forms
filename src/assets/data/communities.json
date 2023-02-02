@@ -1,0 +1,28 @@
+{
+  "communities": [
+    {
+      "cnpj":"85116853000308",
+      "nome":"Centro de Valorização Humana, Moral e Social - Casa São Francisco",
+      "municipio":"Angelina",
+      "cnes":"9188533",
+      "email":"cevahumos@cevahumos.org.br",
+      "telefone":"(48) 3274-2529"
+    },
+    {
+      "cnpj":"01266353000109",
+      "nome":"Associação e Ministério para Restauração da Família - COTERE",
+      "municipio":"Araquari",
+      "cnes":"9187057",
+      "email":"asmirefa@gmail.com",
+      "telefone":"(47) 99790-0303"
+    },
+    {
+      "cnpj":"81140139000213",
+      "nome":"Associação Essência de Vida",
+      "municipio":"Araquari",
+      "cnes":"9178457",
+      "email":"essencia@essenciadevida.org.br",
+      "telefone":"(47) 3028-3357"
+    }
+  ]
+}
